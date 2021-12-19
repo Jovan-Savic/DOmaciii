@@ -1,0 +1,9 @@
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\bin\Debug\4-9 Forma.exe.config
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\obj\Debug\4-9 Forma.exe
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\obj\Debug\4-9 Forma.pdb
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\bin\Debug\4-9 Forma.exe
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\bin\Debug\4-9 Forma.pdb
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\obj\Debug\Jovan Domaci.csprojResolveAssemblyReference.cache
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\obj\Debug\Jovan Domaci.csproj.GenerateResource.Cache
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\obj\Debug\Jovan.Form1.resources
+C:\Users\Jovan\Desktop\4-9-Forma-main\4-9-Forma-main\obj\Debug\Jovan.Properties.Resources.resources
